@@ -16,7 +16,7 @@ Topic: **X**
     * Request prescription refills
     * View appointments/prepare for a visit
     * Message your doctor's office
-  * [image text](image URL)
+  * [MyChart Example](img/Test-Results.png)
 
 ##### Hardware
 * Tech

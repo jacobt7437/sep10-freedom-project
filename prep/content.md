@@ -16,7 +16,7 @@ Topic: **Medical Records**
     * Request prescription refills
     * View appointments/prepare for a visit
     * Message your doctor's office
-  * [MyChart Example](img/Test-Results.png)
+  * [MyChart Example](../img/Test-Results.png)
 
 ##### Hardware
 * Tech

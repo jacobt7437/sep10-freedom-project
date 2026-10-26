@@ -8,8 +8,12 @@ Topic: **X**
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
+* MyChart
+  * A software used by hospitals to store patient's medical records and make them accessible to the patient at any time
+  * Some things you can do with MyChart are:
+    * View test results
+    * View doctors' notes
+    * Request prescription refills
   * [image text](image URL)
 
 ##### Hardware

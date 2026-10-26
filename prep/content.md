@@ -14,6 +14,8 @@ Topic: **X**
     * View test results
     * View doctors' notes
     * Request prescription refills
+    * View appointments/prepare for a visit
+    * Message your doctor's office
   * [image text](image URL)
 
 ##### Hardware

@@ -28,7 +28,7 @@ Topic: **Medical Records**
   * Often, physicians find AI records to be equal or even superior to human-recorded ones, even those of a medical professional
     * 45% of the evaluators in Stanford's study found them to be equal, and 35% found them superior
   * However, AI hallucinations could have serious consequences in healthcare
-    * Based on what I've seen and personal experience, however, it seems like this is a risk doctors are willing to take.
+    * Based on what I've seen and personal experience, however, it seems like this is a risk doctors are willing to take
   * Source: [AI Can Outperform Humans in Writing Medical Summaries](https://hai.stanford.edu/news/ai-can-outperform-humans-writing-medical-summaries)
 
 ##### Hardware

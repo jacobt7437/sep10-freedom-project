@@ -32,9 +32,19 @@ Topic: **Medical Records**
   * Source: [AI Can Outperform Humans in Writing Medical Summaries](https://hai.stanford.edu/news/ai-can-outperform-humans-writing-medical-summaries)
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+* Ultrasound
+  * Used to:
+    * Look at the uterus and ovaries during pregnancy and monitor the baby's health as it develops
+    * Diagnose gallbladder diseases
+    * Evaluate blood flow
+    * View a needle during biopsy or tumor treatment to make sure it goes to the right place
+    * Examine a breast lump
+    * Check the thyroid gland
+    * Look for genital and prostate problems
+    * Assess joint inflammation, called synovitis
+    * Evaluate metabolic bone disease
+  * Sources:
+   * [Ultrasound - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177)
 
 ## Part B: possible future technology
 * Idea

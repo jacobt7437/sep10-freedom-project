@@ -43,6 +43,12 @@ Topic: **Medical Records**
     * Look for genital and prostate problems
     * Assess joint inflammation, called synovitis
     * Evaluate metabolic bone disease
+  * How it works:
+    * Gel is applied to patient
+    * Hand-held device called a transducer sends sound waves into patient's body and collects the ones that bounce back
+    * The waves create an image that is displayed on a computer
+    * It can also be done inside the body: no gel is applied, and the transducer is attached to a probe and inserted into a natural opening in the patient's body
+  * [Ultrasound Example](../img/ultrasound-example.webp)
   * Sources:
     * [Ultrasound - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177)
 

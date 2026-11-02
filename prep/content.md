@@ -44,7 +44,7 @@ Topic: **Medical Records**
     * Assess joint inflammation, called synovitis
     * Evaluate metabolic bone disease
   * Sources:
-   * [Ultrasound - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177)
+    * [Ultrasound - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177)
 
 ## Part B: possible future technology
 * Idea

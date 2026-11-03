@@ -22,7 +22,6 @@ Topic: **Medical Records**
     * [Manage your health with MyChart 24/7](https://www.nychealthandhospitals.org/mychart/)
    
 * AI Technology in Medical Records
-  * Many models!
   * LLMs capture patient speech and automatically record it on a document, creating a record based on what they say
     * This gives doctors more time to actually tend to patients with greater accuracy
   * Often, physicians find AI records to be equal or even superior to human-recorded ones, even those of a medical professional

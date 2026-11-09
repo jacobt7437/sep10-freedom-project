@@ -8,7 +8,7 @@ Topic: **Medical Records**
 ## Part A: existing technology
 
 ##### Software
-* MyChart
+* MyChart (2002)
   * A software used by hospitals to store patient's medical records and make them accessible to the patient at any time
   * Some things you can do with MyChart are:
     * View test results
@@ -20,6 +20,7 @@ Topic: **Medical Records**
   * Sources:
     * [MyChart Feature Guide - Children's Health](https://www.childrens.com/patient-families/parent-resources/mychart-guide)
     * [Manage your health with MyChart 24/7](https://www.nychealthandhospitals.org/mychart/)
+    * [MyChart—A New Mode of Care Delivery: 2005 Personal Health Link Research Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC3057730/)
    
 * AI Technology in Medical Records
   * LLMs capture patient speech and automatically record it on a document, creating a record based on what they say
@@ -28,7 +29,8 @@ Topic: **Medical Records**
     * 45% of the evaluators in Stanford's study found them to be equal, and 35% found them superior
   * However, AI hallucinations could have serious consequences in healthcare
     * Based on what I've seen and personal experience, however, it seems like this is a risk doctors are willing to take
-  * Source: [AI Can Outperform Humans in Writing Medical Summaries](https://hai.stanford.edu/news/ai-can-outperform-humans-writing-medical-summaries)
+  * Sources:
+    * [AI Can Outperform Humans in Writing Medical Summaries](https://hai.stanford.edu/news/ai-can-outperform-humans-writing-medical-summaries)
 
 ##### Hardware
 * Ultrasound

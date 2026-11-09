@@ -22,7 +22,7 @@ Topic: **Medical Records**
     * [Manage your health with MyChart 24/7](https://www.nychealthandhospitals.org/mychart/)
     * [MyChart—A New Mode of Care Delivery: 2005 Personal Health Link Research Report](https://pmc.ncbi.nlm.nih.gov/articles/PMC3057730/)
    
-* AI Technology in Medical Records
+* AI Technology in Medical Records (2020)
   * LLMs capture patient speech and automatically record it on a document, creating a record based on what they say
     * This gives doctors more time to actually tend to patients with greater accuracy
   * Often, physicians find AI records to be equal or even superior to human-recorded ones, even those of a medical professional
@@ -31,9 +31,10 @@ Topic: **Medical Records**
     * Based on what I've seen and personal experience, however, it seems like this is a risk doctors are willing to take
   * Sources:
     * [AI Can Outperform Humans in Writing Medical Summaries](https://hai.stanford.edu/news/ai-can-outperform-humans-writing-medical-summaries)
+    * [Artificial Intelligence and Healthcare: A Journey through History, Present Innovations, and Future Possibilities](https://pmc.ncbi.nlm.nih.gov/articles/PMC11122160/#sec4-life-14-00557)
 
 ##### Hardware
-* Ultrasound
+* Ultrasound (1950s)
   * Used to:
     * Look at the uterus and ovaries during pregnancy and monitor the baby's health as it develops
     * Diagnose gallbladder diseases
@@ -52,6 +53,7 @@ Topic: **Medical Records**
   * [Ultrasound Example](../img/ultrasound-example.webp)
   * Sources:
     * [Ultrasound - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177)
+    * [The History of Ultrasound](https://www.bmus.org/for-patients/history-of-ultrasound/)
 
 ## Part B: possible future technology
 * Idea

@@ -47,6 +47,7 @@ Topic: **Medical Records**
     * The severity of damage caused by heart attacks or heart disease
     * Structural problems in the aorta, such as aneurysms or dissections
     * Inflammation or blockages in the blood vessels
+  * [What the machine looks like](../img/mri.jpeg)
   * Sources:
     * [The History of the MRI: The Development of Medical Resonance Imaging](https://mccollege.edu/aas-in-magnetic-resonance-imaging-mri-technology/about-the-mri-technology-career/the-history-of-the-mri-development-of-medical-resonance-imaging/)
     * [MRI](https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768)

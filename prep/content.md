@@ -7,7 +7,7 @@ Topic: **Medical Records**
 
 ## Part A: existing technology
 
-### By Time Invented (Ascending):
+### By Time Invented for Practical Use:
 
 * Ultrasound (1950s)
   * Used to:
@@ -29,6 +29,27 @@ Topic: **Medical Records**
   * Sources:
     * [Ultrasound - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177)
     * [The History of Ultrasound](https://www.bmus.org/for-patients/history-of-ultrasound/)
+   
+* MRI (1977)
+  * Stands for Magnetic Resonance Imaging
+  * Uses magnetic fields and radio waves to create detailed images of internal body organs
+  * When used on the brain and spinal cord, it is used to diagnose:
+    * Aneurysms of cerebral vessels
+    * Conditions pertaining to the eyes and inner ears
+    * Multiple sclerosis
+    * The condition of a patient's spinal cord
+    * Strokes
+    * Tumors
+    * Brain injuries caused by physical trauma
+  * When used on the heart and blood vessels, it is used to check:
+    * If the heart's chambers are working properly and at a healthy size
+    * Thickness and movement of the heart's walls
+    * The severity of damage caused by heart attacks or heart disease
+    * Structural problems in the aorta, such as aneurysms or dissections
+    * Inflammation or blockages in the blood vessels
+  * Sources:
+    * [The History of the MRI: The Development of Medical Resonance Imaging](https://mccollege.edu/aas-in-magnetic-resonance-imaging-mri-technology/about-the-mri-technology-career/the-history-of-the-mri-development-of-medical-resonance-imaging/)
+    * [MRI](https://www.mayoclinic.org/tests-procedures/mri/about/pac-20384768)
 
 * MyChart (2002)
   * A software used by hospitals to store patient's medical records and make them accessible to the patient at any time

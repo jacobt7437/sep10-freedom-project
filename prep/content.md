@@ -7,7 +7,7 @@ Topic: **Medical Records**
 
 ## Part A: existing technology
 
-##### By Time Invented (Ascending):
+### By Time Invented (Ascending):
 
 * Ultrasound (1950s)
   * Used to:

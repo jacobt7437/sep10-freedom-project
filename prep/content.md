@@ -2,8 +2,7 @@
 Topic: **Medical Records**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+As long as healthcare has existed, a need to record patients' medical history has been essential to effective treatment. Without that information, doctors could not monitor, and by extension, poorly treat, long lasting diseases and chronic conditions. As medicine itself advanced, doctors needed to be able to see what medications a patient was on and how they could interact with possible prescriptions. Over the years, with technological advancements, collecting medical information from patients and storing said information has become significantly easier.
 
 ## Part A: existing technology
 

@@ -78,5 +78,13 @@ As long as healthcare has existed, a need to record patients' medical history ha
 
    
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Automated Cross-Reference System (ACRS)
+  * An app that can be attached to MyChart or similar apps
+  * Automatically cross-references patients' medical records with medication compatibility checkers
+    * This would allow doctors to not have to constantly go to such a checker while perscribing medication to a patient
+  * Displays a list of medications that are incompatible and a list that may be compatible with potential side effects below record
+* Hereditary Condition Record Examiner (HCRE)
+  * Also an app that can be attached to MyChart or similar apps
+  * Checks medical records of patients' families for hereditary conditions
+    * The patient may or may not have such conditions so they could be helpful to include in a record
+  * Displays conditions below record
